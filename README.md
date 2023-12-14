@@ -1,7 +1,3 @@
-# This repo is under construction. You may find some parts not working as expected.
-
-### Checkout "dev" branch to see which part I'm working on right now
-
 ### Following feature will be added in this repo
 
 1. Server side caching
@@ -12,7 +8,7 @@
 
 # Library-Management-System
 
-A simple online library management system built with MongodDB, Express.js and Node.js. [Click here](https://demo-library-system.herokuapp.com/) to see the application
+A simple online library management system built with MongodDB, Express.js and Node.js.
 
 ## Techonologies used in this application
 
